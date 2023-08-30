@@ -1,0 +1,7 @@
+[package]
+name = "symbolsums"
+type = "bin"
+authors = [""]
+compiler_version = "0.10.3"
+
+[dependencies]
